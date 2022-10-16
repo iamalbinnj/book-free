@@ -1,0 +1,27 @@
+.card__wrap{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card__wrap .card__item{
+    padding: 15px 25px;
+    width: 25%;
+}
+
+.card__wrap .card__inner{
+    background: #fff;
+    border-radius: 5px;
+    padding: 35px 20px;
+    min-width: 225px;
+    min-height: 325px;
+    width: 100%;
+}
+
+.card__wrap .card__inner .card__img{
+    width: 80px;
+    height: 115px;
+    margin-bottom: 5px;
+}

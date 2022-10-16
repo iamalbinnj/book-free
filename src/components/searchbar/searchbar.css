@@ -1,0 +1,43 @@
+.support{
+    margin: 140px auto;
+}
+
+.support p{
+    text-align: center;
+    font-style: 70%;
+    font-family: 'Product Sans';
+    font-weight: bold;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.support .text__input{
+    margin: auto;
+    background: #fff;
+    border-radius: 20px;
+    padding-left: 5px;
+    width: 50%;
+    position: relative;
+}
+
+.text__input input{
+    border-radius: 50px;
+    height: 55px;
+    width: 100%;
+    border: none;
+    padding: 0 60px 0 20px;
+    font-size: 18px;
+}
+
+.text__input .icon{
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    font-size: 35px;
+    color: #181818;
+    cursor: pointer;
+}
